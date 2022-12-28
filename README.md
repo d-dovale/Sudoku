@@ -4,6 +4,7 @@ Pygame GUI based Sudoku game for my COP3502C class
 
 # Authors
 
+* Daniel Dovale
 * Syed Balkhi
 * Jehan Peralta
 * Taran Ramu
