@@ -8,6 +8,14 @@ Pygame GUI based Sudoku game for my COP3502C class
 * Jehan Peralta
 * Taran Ramu
 
+# How to Run
+
+Run Command:
+
+```
+python sudoku.py
+```
+
 # What I Learned
 
 * Basics of pygame
