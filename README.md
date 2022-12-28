@@ -11,7 +11,8 @@ Pygame GUI based Sudoku game for my COP3502C class
 
 # How to Run
 
-Run Command:
+* Install pygame
+* Use run command below:
 
 ```
 python sudoku.py
